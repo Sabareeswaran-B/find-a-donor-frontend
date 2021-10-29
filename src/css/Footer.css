@@ -1,0 +1,55 @@
+footer
+{
+    padding-top: 15px;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: #b4b3b3;
+    min-height: 110px;
+    margin-top: 100px;
+    z-index: -1;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 15px 2px;
+    border-radius: 50%;
+  }
+  
+.fa:hover {
+    opacity: 0.7;
+}
+  
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.fa-android {
+    background: #a4c639;
+    color: white;
+}
+
+.fa-apple {
+    background: white;
+    color: silver;
+}
+
+.fa-windows {
+    background: blue;
+    color: white;
+}
+  

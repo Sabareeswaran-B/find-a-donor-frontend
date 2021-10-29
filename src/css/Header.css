@@ -1,0 +1,29 @@
+header
+{
+background-color: #C42522;
+height: 90px;
+width: 100%;
+padding: 20px 30px 0 30px;
+margin-bottom: 50px;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+    margin-right: 30px;
+    margin-top: -15px;
+}
+
+.navlink{
+    color: white;
+    float: left;
+}
+
+.navlink:hover{
+    color: wheat;
+    float: left;
+}
+
+.navitem{
+    margin-left: 800px;
+}
